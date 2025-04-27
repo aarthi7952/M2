@@ -11,7 +11,7 @@ Write a C program to print even numbers ranging from M to N (including M and N v
 6.	If the current number is even, print it.
 7.	Continue the loop until you have iterated through all numbers from M to N.
 
-## PROGRAM:
+## PROGRAM: 
 ```
 #include<stdio.h>
 int main()
